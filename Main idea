@@ -1,0 +1,11 @@
+Main Idea:
+A software programme called a CPU scheduling simulator enables users to model and examine various CPU scheduling algorithms. 
+Users can assess and compare the performance of various scheduling policies in a virtual environment where processes are scheduled and run on a simulated CPU.
+
+A CPU scheduling simulator is used to better understand how scheduling algorithms behave and
+what impact they have on different metrics, including CPU utilisation, waiting time, turnaround time, and reaction time. 
+Users can learn more about the efficiency and effectiveness 
+of different scheduling policies in various settings by simulating various scenarios and workload patterns.
+
+
+An interface is typically provided by a CPU scheduling simulator so that users can enter information such process arrival times, burst times, and priority levels.
